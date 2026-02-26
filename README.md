@@ -63,6 +63,18 @@ Model performance was evaluated using:
 
 ---
 
+  ## 📊 Model Performance
+
+The regression model was evaluated using standard metrics:
+
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+These metrics provide insight into prediction accuracy and model explanatory power.
+
+---
+
 ## 📌 Business Impact
 
 This predictive model enables:
